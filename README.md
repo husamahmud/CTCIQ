@@ -5,5 +5,5 @@
 ### Content
 
 1. [ ] [Chapter _01_ - Arrays and Strings](chapter-01%2FREADME.md)
-2. [ ] [Chapter _02_ - Linked Lists]()
+2. [x] [Chapter _02_ - Linked Lists](chapter-02%2FREADME.md)
 3. [ ] [Chapter _03_ - Stacks and Queues]()
