@@ -1,6 +1,6 @@
 ## Quesions of  _Cracking the Coding Interview, 6th Edition_ on LeetCode
 
-### Book: [Link](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
+### Book: [Link](https://github.com/AatmikJain/ComputerScienceBooks/blob/master/Cracking%20the%20Coding%20Interview.pdf)
 
 ### Content
 
